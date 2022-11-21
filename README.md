@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on human pose estimation
-- 📫 How to reach me email:junye6008@gmail.com
+- 📫 How to reach me email:tb22060028a41@cumt.edu.cn
 -     China Univeristy of Mining and Technology
 
 <!---
