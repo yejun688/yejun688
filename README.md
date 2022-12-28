@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YE JUN
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on human pose estimatio
+- 💞️ I’m looking to collaborate on human pose estimation
 
 
 <!---
