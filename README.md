@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YE JUN
-- 👀 I’m interested in computer vision and Machine Learning
+- 👀 I’m interested in Computer vision and Machine Learning
 - 🌱 I’m currently learning Guitar
-- 😀 Language English 🇬🇧 / 中文 🇨🇳 / 한국어 🇰🇷
+- 😀 Language: English 🇬🇧 / 中文 🇨🇳 / 한국어(TOPIK IV) 🇰🇷 / Moreover I will learning 🇩🇪 in the future
 
 [![wakatime](https://wakatime.com/badge/user/eb538ae4-e5c0-43f6-858b-dcce77516eb0/project/2028e936-fbaf-4a69-bedd-b550337a3a9c.svg)](https://wakatime.com/badge/user/eb538ae4-e5c0-43f6-858b-dcce77516eb0/project/2028e936-fbaf-4a69-bedd-b550337a3a9c)
 
