@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YE JUN
-- 👀 I’m interested in Computer vision and Machine Learning
+- 👀 I’m interested in Computer Vision and Machine Learning
 - 🌱 I’m currently learning Guitar
-- 😀 Language: English 🇬🇧 / 中文 🇨🇳 / 한국어(TOPIK IV) 🇰🇷 / Moreover I will learning 🇩🇪 in the future
+- 😀 Language: English 🇬🇧 / 中文 🇨🇳 / 한국어(TOPIK IV) 🇰🇷 / Moreover I will learn 🇩🇪 in the future
 
 
 <!-- <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yejun688&count_private=true&show_icons=true&hide_rank=true&title_color=0969da&bg_color=ffffff00&text_color=57606a&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yejun688&layout=compact&title_color=0969da&bg_color=ffffff00&text_color=57606a"> -->
