@@ -1,3 +1,4 @@
+# Hi there
 - 👋 Hi, I’m @YE JUN
 - 👀 I’m interested in Computer Vision and Machine Learning
 - 🌱 I’m currently learning Guitar
