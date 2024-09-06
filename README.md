@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,19 +59,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       █████████████████████░░░░   84.11 % 
-Other                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   7 hrs 8 mins        ████████████████████░░░░░   78.94 % 
+Other                    1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tensor4D                 9 hrs 55 mins       █████████████████████░░░░   82.89 % 
-Joint-TensoRF            2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tensor4D                 6 hrs 59 mins       ███████████████████░░░░░░   77.34 % 
+Joint-TensoRF            2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 
 💻 Operating System: 
-Linux                    11 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2024 18:39:20 UTC
+ Last Updated on 06/09/2024 18:39:44 UTC
 <!--END_SECTION:waka-->
