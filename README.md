@@ -16,15 +16,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 448.8 kB Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,19 +57,17 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 45 mins        █████████████░░░░░░░░░░░░   50.35 % 
-YAML                     1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.64 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+YAML                     2 hrs 23 mins       ███████████████░░░░░░░░░░   60.45 % 
+Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   39.55 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaRa                     3 hrs 16 mins       ███████████████████████░░   93.99 % 
-PuTT                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+LaRa                     3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +86,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2024 18:42:24 UTC
+ Last Updated on 30/10/2024 18:42:10 UTC
 <!--END_SECTION:waka-->
