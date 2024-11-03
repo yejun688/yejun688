@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 448.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 50 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,46 +30,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌆 Daytime                25 commits          ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌃 Evening                47 commits          ████████████░░░░░░░░░░░░░   47.96 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Tuesday                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Friday                   30 commits          ████████░░░░░░░░░░░░░░░░░   30.61 % 
-Saturday                 26 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     2 hrs 49 mins       ███████████████░░░░░░░░░░   58.10 % 
-Python                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.90 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-LaRa                     4 hrs 52 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -86,5 +46,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:38:54 UTC
+ Last Updated on 03/11/2024 18:39:57 UTC
 <!--END_SECTION:waka-->
