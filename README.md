@@ -1,6 +1,6 @@
 # Hi there
-- 👋 Hi, I’m @YE JUN
-- 🔭 Passionate about Computer Vision and Machine Learning. Recently, I've been interested In Neural Surface Reconstruction & Complex Illumination Condition Rendering & Text-to-Image Diffusion Models.
+- 👋 Hi
+- 🔭 Passionate about Computer Vision and Machine Learning. Recently, I've been interested in Neural Surface Reconstruction & Complex Illumination Condition Rendering & Diffusion Models.
 - 🌱 I’m currently learning Guitar
 - 😀 Language: English 🇬🇧 / 中文 🇨🇳 / 한국어(TOPIK IV) 🇰🇷 / I will learn Deutsch 🇩🇪 in the future
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas
