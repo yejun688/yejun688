@@ -1,7 +1,7 @@
 # Hi there
 - 👋 Hi
-- 🔭 Passionate about Computer Vision and Machine Learning. Recently, I've been interested in Neural Surface Reconstruction & Complex Illumination Condition Rendering & Diffusion Models.
-- 🌱 I’m currently learning Guitar
+- 🔭 Passionate about Computer Vision and Machine Learning. Recently, I've been interested in Neural Surface Reconstruction & Complex Illumination Condition Rendering & Diffusion Models
+- 🌱 I’m currently learning guitar
 - 😀 Language: English 🇬🇧 / 中文 🇨🇳 / 한국어(TOPIK IV) 🇰🇷 / I will learn Deutsch 🇩🇪 in the future
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas
 
