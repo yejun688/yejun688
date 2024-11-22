@@ -88,11 +88,38 @@ Shell                    1 repo              █░░░░░░░░░░�
 ```
 
 
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,pytorch,tensorflow,opencv,cmake,ps,pr,ai,ros,linux,ubuntu,windows,apple,raspberrypi,anaconda,git,githubactions,github,gitlab,latex,vscode,vim,bash,markdown,stackoverflow,discord" /><br>
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+ 
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+</table>
+
+
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
-
+<!-- ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)-->
 
  Last Updated on 21/11/2024 18:43:05 UTC
 <!--END_SECTION:waka-->
