@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
+![Visitors](https://img.shields.io/endpoint?url=https://ga-beacon.example.com/badge?period=180days)
 **🐱 My GitHub Data** 
 
 > 📦 451.3 kB Used in GitHub's Storage 
