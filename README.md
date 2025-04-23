@@ -15,6 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
+
+## <center> Visitor Count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/yejun688/count.svg" />
+</p>
+
+
 **🐱 My GitHub Data** 
 
 > 📦 451.3 kB Used in GitHub's Storage 
