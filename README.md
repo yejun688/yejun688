@@ -27,16 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 **🐱 My GitHub Data** 
 
-> 📦 451.3 kB Used in GitHub's Storage 
- > 
-> 🏆 17 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -71,15 +61,6 @@ NoPoSplat                3 hrs 54 mins       ██░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    44 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Cuda                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
  Last Updated on 22/04/2025 18:44:37 UTC
