@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejun688&layout=compact&theme=aura)
+
+
 ## <center> Visitor Count
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/yejun688/count.svg" />
@@ -90,13 +93,6 @@ C++                      2 repos             ████░░░░░░░�
 Cuda                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
-
 
  Last Updated on 22/04/2025 18:44:37 UTC
 <!--END_SECTION:waka-->
