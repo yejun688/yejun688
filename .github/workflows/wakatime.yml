@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # SHOW_PROFILE_VIEWS: false  # 禁用有问题的功能
+          SHOW_PROFILE_VIEWS: false  # 禁用有问题的功能
           SHOW_OS: true
           SHOW_EDITORS: true
           SHOW_LANGUAGE: true
