@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%2034%20mins-blue)
+<!--END_SECTION:waka-->
 
 **🐱 My GitHub Data** 
 
