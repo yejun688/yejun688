@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 271.0 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -87,5 +85,5 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 01:47:44 UTC
+ Last Updated on 31/07/2025 18:43:02 UTC
 <!--END_SECTION:waka-->
