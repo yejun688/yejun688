@@ -5,7 +5,7 @@
 
 
 
-![Yejun688's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun688&show_icons=true&theme=transparent)
+[![Yejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun688)](https://github.com/yejun688/github-readme-stats)
 
 <!---
 yejun688/yejun688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
