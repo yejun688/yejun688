@@ -13,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 271.2 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2025
+> 🏆 98 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,9 +77,9 @@ Linux                    27 hrs 32 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████████████░░░░░░░░   66.67 % 
-C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -89,5 +89,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 18:43:59 UTC
+ Last Updated on 11/12/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
