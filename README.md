@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%203%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 287.2 kB Used in GitHub's Storage 
@@ -87,5 +89,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:46:26 UTC
+ Last Updated on 02/02/2026 18:47:38 UTC
 <!--END_SECTION:waka-->
