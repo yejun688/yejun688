@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,25 +54,25 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Python                   3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Bash                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Other                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Markdown                 4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+Python                   3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Other                    1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Bash                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 28 mins      ████████████████████░░░░░   81.03 % 
-Claude Code              2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+VS Code                  10 hrs 45 mins      ████████████████████░░░░░   78.64 % 
+Claude Code              2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 
 🐱‍💻 Projects: 
-MoSca                    7 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-usplat4d                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-DeferredGS               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-iphone                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-BridgeDepth              57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+MoSca                    7 hrs 27 mins       ██████████████░░░░░░░░░░░   54.50 % 
+usplat4d                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+DeferredGS               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+iphone                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+BridgeDepth              57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 💻 Operating System: 
-Linux                    15 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 19:10:30 UTC
+ Last Updated on 02/07/2026 19:00:24 UTC
 <!--END_SECTION:waka-->
