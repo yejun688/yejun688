@@ -54,25 +54,25 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
-Python                   2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Other                    1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 4 hrs 38 mins       ███████████████░░░░░░░░░░   58.09 % 
+Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 41 mins       ██████████████████░░░░░░░   73.96 % 
-Claude Code              2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+VS Code                  5 hrs 13 mins       ████████████████░░░░░░░░░   65.43 % 
+Claude Code              2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 🐱‍💻 Projects: 
-MoSca                    7 hrs 4 mins        █████████████████░░░░░░░░   67.99 % 
-DeferredGS               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-BridgeDepth              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-iphone                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-MoDec-GS                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+MoSca                    6 hrs 51 mins       ██████████████████████░░░   86.01 % 
+iphone                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+BridgeDepth              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+DeferredGS               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+NAS3R                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Linux                    10 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:44:50 UTC
+ Last Updated on 05/07/2026 19:50:10 UTC
 <!--END_SECTION:waka-->
