@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C677%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C681%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,27 +54,27 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
-Bash                     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Other                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Python                   8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.45 % 
+Markdown                 3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Bash                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+YAML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 35 mins      ██████████████████░░░░░░░   70.69 % 
-Codex CLI                4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Claude Code              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+VS Code                  17 hrs              ███████████████████░░░░░░   77.58 % 
+Codex CLI                4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-MoSca                    8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
-MoDec-GS                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-MotionCrafter            3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-iphone                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-ViewSplat                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+MoSca                    9 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.48 % 
+MoDec-GS                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+ViewSplat                1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+CVPR26-MoRel             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+3D-4DGS                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 💻 Operating System: 
-Linux                    20 hrs 10 mins      ████████████████████████░   97.68 % 
-Mac                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Linux                    21 hrs 27 mins      ████████████████████████░   97.82 % 
+Mac                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +92,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 20:00:06 UTC
+ Last Updated on 22/07/2026 19:52:38 UTC
 <!--END_SECTION:waka-->
