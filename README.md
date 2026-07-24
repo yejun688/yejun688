@@ -52,27 +52,27 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.87 % 
-Bash                     4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Markdown                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Other                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python                   13 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   41.56 % 
+Markdown                 5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Bash                     5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Other                    4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 22 mins      ████████████████████░░░░░   81.29 % 
-Codex CLI                4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+VS Code                  27 hrs 17 mins      █████████████████████░░░░   85.34 % 
+Codex CLI                4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-MoSca                    10 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.42 % 
-MoDec-GS                 4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-ViewSplat                1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-CVPR26-MoRel             1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-3D-4DGS                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+MoSca                    15 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.51 % 
+MoDec-GS                 4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+MoDE                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+CVPR26-MoRel             2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+ViewSplat                1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 💻 Operating System: 
-Linux                    24 hrs 35 mins      █████████████████████████   98.09 % 
-Mac                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Linux                    31 hrs 17 mins      ████████████████████████░   97.86 % 
+Mac                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:55:37 UTC
+ Last Updated on 24/07/2026 19:54:59 UTC
 <!--END_SECTION:waka-->
