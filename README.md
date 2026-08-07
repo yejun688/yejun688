@@ -56,48 +56,48 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   33.55 % 
-Markdown                 9 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Other                    9 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-YAML                     7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Bash                     4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Python                   19 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Markdown                 11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Other                    10 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+YAML                     8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Bash                     4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-VS Code                  55 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  61 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MoSca                    19 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   35.37 % 
-WorldBridge4D            13 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-sparse-cam4d             6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-ViDAR                    2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Unknown Project          1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+MoSca                    21 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
+WorldBridge4D            15 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+sparse-cam4d             6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Unknown Project          3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+EcoSplat                 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Linux                    55 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    61 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 33 mins (86.27%)
+⏱ AI Coding Time: 53 hrs 5 mins (86.56%)
 
-✍️ 24,422 lines written by AI, 675 lines written by hand (97.31% AI-written)
+✍️ 30,079 lines written by AI, 672 lines written by hand (97.81% AI-written)
 
-🔤 393,336,288 Input Tokens, 1,463,276 Output Tokens
+🔤 441,706,334 Input Tokens, 1,809,367 Output Tokens
 
-💵 $1981.53 Estimated AI Cost This Week
+💵 $2258.39 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 581 AI Prompts
+🧠 64 AI Sessions, 688 AI Prompts
 
-GPT                      24,239 lines        ████████████████████████░   97.60 % 
-Deepseek                 595 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+GPT                      30,270 lines        █████████████████████████   99.13 % 
+Deepseek                 265 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.31% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
+🤖 AI-Driven — 97.81% of written lines came from AI
+📝 Concise Prompter — average 366 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.53% of changed lines were hand-edited
+🚀 High AI Trust — 2.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +115,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:23:42 UTC
+ Last Updated on 07/08/2026 19:29:16 UTC
 <!--END_SECTION:waka-->
