@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C647%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C655%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,48 +56,48 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Markdown                 11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Other                    10 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-YAML                     8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Bash                     4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Python                   21 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.62 % 
+Markdown                 12 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+YAML                     9 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Other                    8 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Bash                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-VS Code                  61 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  64 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MoSca                    21 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
-WorldBridge4D            15 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-sparse-cam4d             6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Unknown Project          3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-EcoSplat                 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+WorldBridge4D            23 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.39 % 
+MoSca                    19 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   30.12 % 
+sparse-cam4d             6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Unknown Project          4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+ViDAR                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Linux                    61 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    64 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 5 mins (86.56%)
+⏱ AI Coding Time: 56 hrs 55 mins (87.89%)
 
-✍️ 30,079 lines written by AI, 672 lines written by hand (97.81% AI-written)
+✍️ 33,122 lines written by AI, 246 lines written by hand (99.26% AI-written)
 
-🔤 441,706,334 Input Tokens, 1,809,367 Output Tokens
+🔤 432,765,312 Input Tokens, 2,241,408 Output Tokens
 
-💵 $2258.39 Estimated AI Cost This Week
+💵 $2295.32 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 688 AI Prompts
+🧠 68 AI Sessions, 883 AI Prompts
 
-GPT                      30,270 lines        █████████████████████████   99.13 % 
-Deepseek                 265 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+GPT                      33,332 lines        █████████████████████████   99.23 % 
+Deepseek                 260 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.81% of written lines came from AI
-📝 Concise Prompter — average 366 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.88% of changed lines were hand-edited
+🤖 AI-Driven — 99.26% of written lines came from AI
+📝 Concise Prompter — average 377 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +115,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:29:16 UTC
+ Last Updated on 08/08/2026 19:08:29 UTC
 <!--END_SECTION:waka-->
