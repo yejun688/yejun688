@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C766%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C766%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,47 +56,46 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.06 % 
-YAML                     7 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown                 5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-JSON                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Python                   13 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.40 % 
+YAML                     6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Markdown                 4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            31 hrs 43 mins      ██████████████████████░░░   89.78 % 
-sparse-cam4d             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Unknown Project          40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-data                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-ViDAR                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+WorldBridge4D            25 hrs 49 mins      ██████████████████████░░░   87.21 % 
+4DGaussians_study        1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+sparse-cam4d             1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Unknown Project          30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+data                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Linux                    35 hrs 15 mins      █████████████████████████   99.80 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Linux                    29 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 31 mins (83.59%)
+⏱ AI Coding Time: 23 hrs 1 min (77.76%)
 
-✍️ 13,856 lines written by AI, 133 lines written by hand (99.05% AI-written)
+✍️ 11,471 lines written by AI, 69 lines written by hand (99.4% AI-written)
 
-🔤 7,630,658 Input Tokens, 1,077,552 Output Tokens
+🔤 5,540,672 Input Tokens, 850,020 Output Tokens
 
-💵 $193.90 Estimated AI Cost This Week
+💵 $152.94 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 582 AI Prompts
+🧠 27 AI Sessions, 498 AI Prompts
 
-GPT                      15,485 lines        █████████████████████████   100.00 % 
+GPT                      13,042 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📄 Detailed Prompter — average 525 characters per prompt
+🤖 AI-Driven — 99.4% of written lines came from AI
+📝 Concise Prompter — average 468 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 1.68% of changed lines were hand-edited
+🚀 High AI Trust — 1.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,5 +113,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:33:47 UTC
+ Last Updated on 28/08/2026 02:16:39 UTC
 <!--END_SECTION:waka-->
