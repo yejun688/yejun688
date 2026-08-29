@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C768%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C770%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,49 +56,49 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 42 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
-YAML                     6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Markdown                 3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Python                   9 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.07 % 
+YAML                     5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 21 mins      █████████████████████████   99.55 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  20 hrs 8 mins       █████████████████████████   99.44 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            20 hrs 30 mins      ████████████████████░░░░░   80.53 % 
-4DGaussians_study        2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-sparse-cam4d             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-data                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-rekkles                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+WorldBridge4D            15 hrs 47 mins      ████████████████████░░░░░   78.03 % 
+4DGaussians_study        2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+sparse-cam4d             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+rekkles                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+data                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Linux                    25 hrs 8 mins       █████████████████████████   98.73 % 
-Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Linux                    19 hrs 55 mins      █████████████████████████   98.40 % 
+Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 37 mins (69.21%)
+⏱ AI Coding Time: 12 hrs 55 mins (63.8%)
 
-✍️ 9,297 lines written by AI, 74 lines written by hand (99.21% AI-written)
+✍️ 6,001 lines written by AI, 73 lines written by hand (98.8% AI-written)
 
-🔤 4,827,467 Input Tokens, 714,395 Output Tokens
+🔤 3,862,919 Input Tokens, 527,072 Output Tokens
 
-💵 $134.52 Estimated AI Cost This Week
+💵 $101.60 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 409 AI Prompts
+🧠 16 AI Sessions, 301 AI Prompts
 
-GPT                      10,862 lines        █████████████████████████   99.98 % 
-Codex-Vscode             2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      7,560 lines         █████████████████████████   99.97 % 
+Codex-Vscode             2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.21% of written lines came from AI
-📝 Concise Prompter — average 459 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 1.97% of changed lines were hand-edited
+🤖 AI-Driven — 98.8% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 2.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +116,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:50:05 UTC
+ Last Updated on 29/08/2026 21:04:26 UTC
 <!--END_SECTION:waka-->
