@@ -13,15 +13,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C782%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2047%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 288.5 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-🌃 Evening                73 commits          ██████████░░░░░░░░░░░░░░░   38.83 % 
-🌙 Night                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌃 Evening                73 commits          ██████████░░░░░░░░░░░░░░░   38.02 % 
+🌙 Night                  39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Friday                   42 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Saturday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -56,47 +56,47 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Python                   3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Other                    2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-YAML                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Bash                     5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Python                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Markdown                 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+YAML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
-PTIR-GS                  6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
-sparse-cam4d             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-OriGS                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-ViDAR                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+WorldBridge4D            9 hrs 1 min         ████████████░░░░░░░░░░░░░   47.15 % 
+PTIR-GS                  6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
+4DGaussians_study        1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+OriGS                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+sparse-cam4d             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Linux                    15 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 22 mins (53.35%)
+⏱ AI Coding Time: 11 hrs (57.43%)
 
-✍️ 1,030 lines written by AI, 2,786 lines written by hand (26.99% AI-written)
+✍️ 2,142 lines written by AI, 2,815 lines written by hand (43.21% AI-written)
 
-🔤 1,767,363 Input Tokens, 168,452 Output Tokens
+🔤 2,818,313 Input Tokens, 261,488 Output Tokens
 
-💵 $25.67 Estimated AI Cost This Week
+💵 $52.19 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 119 AI Prompts
+🧠 26 AI Sessions, 141 AI Prompts
 
-GPT                      1,006 lines         ████████████████████████░   97.58 % 
-Deepseek                 25 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+GPT                      2,118 lines         █████████████████████████   98.83 % 
+Deepseek                 25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.99% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
+⚖️ Balanced with AI — 43.21% of written lines came from AI
+📝 Concise Prompter — average 166 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 76.83% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,5 +114,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:35:19 UTC
+ Last Updated on 06/09/2026 20:39:34 UTC
 <!--END_SECTION:waka-->
