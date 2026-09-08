@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C787%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,47 +56,47 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Bash                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Markdown                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-YAML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Python                   8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+YAML                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Markdown                 5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            12 hrs 26 mins      ███████████████░░░░░░░░░░   60.88 % 
-PTIR-GS                  4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-4DGaussians_study        1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-OriGS                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-ViDAR                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+WorldBridge4D            25 hrs 29 mins      ████████████████████░░░░░   80.43 % 
+PTIR-GS                  2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+4DGaussians_study        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+OriGS                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Linux                    20 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 42 mins (72.01%)
+⏱ AI Coding Time: 28 hrs 21 mins (89.46%)
 
-✍️ 3,858 lines written by AI, 1,443 lines written by hand (72.78% AI-written)
+✍️ 11,790 lines written by AI, 126 lines written by hand (98.94% AI-written)
 
-🔤 3,184,005 Input Tokens, 452,229 Output Tokens
+🔤 4,766,249 Input Tokens, 1,021,831 Output Tokens
 
-💵 $79.25 Estimated AI Cost This Week
+💵 $198.64 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 153 AI Prompts
+🧠 31 AI Sessions, 244 AI Prompts
 
-GPT                      3,834 lines         █████████████████████████   99.35 % 
-Deepseek                 25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+GPT                      11,766 lines        █████████████████████████   99.79 % 
+Deepseek                 25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.78% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.54% of changed lines were hand-edited
+🤖 AI-Driven — 98.94% of written lines came from AI
+📝 Concise Prompter — average 362 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 1.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,5 +114,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:42:25 UTC
+ Last Updated on 08/09/2026 21:19:27 UTC
 <!--END_SECTION:waka-->
