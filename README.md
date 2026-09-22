@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C834%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C836%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-322%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,39 +56,39 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 49 mins       ██████████████░░░░░░░░░░░   57.97 % 
-Other                    3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-CSV                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   9 hrs 31 mins       ██████████████░░░░░░░░░░░   56.06 % 
+Other                    3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+CSV                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 48 mins      █████████████████████████   99.26 % 
+VS Code                  16 hrs 52 mins      █████████████████████████   99.26 % 
 Agent                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            6 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-Ref-DGS                  4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-RGS-DR                   2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-SpecGloss-GS             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-RADIUS-4D                1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+WorldBridge4D            6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
+Ref-DGS                  4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+RGS-DR                   2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+SpecGloss-GS             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+RADIUS-4D                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 57 mins (47.0%)
+⏱ AI Coding Time: 8 hrs 1 min (47.2%)
 
 ✍️ 1,692 lines written by AI, 29,766 lines written by hand (5.38% AI-written)
 
-🔤 894,208 Input Tokens, 311,559 Output Tokens
+🔤 830,314 Input Tokens, 308,123 Output Tokens
 
-💵 $132.77 Estimated AI Cost This Week
+💵 $132.33 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 135 AI Prompts
+🧠 18 AI Sessions, 131 AI Prompts
 
 Deepseek                 1,467 lines         ██████████████████████░░░   86.34 % 
 GPT                      232 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
@@ -96,7 +96,7 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 5.38% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
+📝 Concise Prompter — average 297 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 95.28% of changed lines were hand-edited
 ```
@@ -116,5 +116,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:07:24 UTC
+ Last Updated on 22/09/2026 21:33:56 UTC
 <!--END_SECTION:waka-->
