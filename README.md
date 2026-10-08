@@ -56,49 +56,49 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Markdown                 5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-Python                   4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+Markdown                 5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 21 mins      ██████████████░░░░░░░░░░░   56.39 % 
-Codex Vscode             8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
+Codex Vscode             8 hrs 46 mins       █████████████░░░░░░░░░░░░   50.38 % 
+VS Code                  8 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.62 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-DeGauss                  4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Deformable-3D-Gaussians  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Mango-GS                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-rekkles                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+DeGauss                  4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+WorldBridge4D            3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Deformable-3D-Gaussians  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Mango-GS                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+rekkles                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 💻 Operating System: 
-Linux                    18 hrs 11 mins      ███████████████████████░░   90.33 % 
-Mac                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Linux                    15 hrs 28 mins      ██████████████████████░░░   88.82 % 
+Mac                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 10 mins (85.27%)
+⏱ AI Coding Time: 14 hrs 27 mins (82.99%)
 
-✍️ 3,385 lines written by AI, 7,408 lines written by hand (31.36% AI-written)
+✍️ 1,335 lines written by AI, 7,408 lines written by hand (15.27% AI-written)
 
-🔤 7,199,759 Input Tokens, 445,055 Output Tokens
+🔤 6,532,093 Input Tokens, 313,852 Output Tokens
 
-💵 $221.86 Estimated AI Cost This Week
+💵 $193.11 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 115 AI Prompts
+🧠 28 AI Sessions, 97 AI Prompts
 
-GPT                      3,381 lines         █████████████████████████   100.00 % 
+GPT                      1,331 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.36% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 68.64% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.27% of written lines came from AI
+📝 Concise Prompter — average 355 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 84.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +116,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:15:10 UTC
+ Last Updated on 08/10/2026 23:30:30 UTC
 <!--END_SECTION:waka-->
