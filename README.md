@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 **🐱 My GitHub Data** 
 
-> 📦 288.5 kB Used in GitHub's Storage 
+> 📦 288.6 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -56,49 +56,48 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-Markdown                 5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Python                   3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    6 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+Markdown                 4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Python                   2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 46 mins       █████████████░░░░░░░░░░░░   50.38 % 
-VS Code                  8 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.62 % 
+Codex Vscode             8 hrs 55 mins       ██████████████░░░░░░░░░░░   55.21 % 
+VS Code                  7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
 
 🐱‍💻 Projects: 
-DeGauss                  4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-WorldBridge4D            3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Deformable-3D-Gaussians  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Mango-GS                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-rekkles                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+DeGauss                  4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Deformable-3D-Gaussians  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+rekkles                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+WorldBridge4D            2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Mango-GS                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 
 💻 Operating System: 
-Linux                    15 hrs 28 mins      ██████████████████████░░░   88.82 % 
-Mac                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Linux                    13 hrs 52 mins      █████████████████████░░░░   85.79 % 
+Mac                      2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 27 mins (82.99%)
+⏱ AI Coding Time: 13 hrs 12 mins (81.66%)
 
-✍️ 1,335 lines written by AI, 7,408 lines written by hand (15.27% AI-written)
+✍️ 1,051 lines written by AI, 7,408 lines written by hand (12.42% AI-written)
 
-🔤 6,532,093 Input Tokens, 313,852 Output Tokens
+🔤 6,798,712 Input Tokens, 295,091 Output Tokens
 
-💵 $193.11 Estimated AI Cost This Week
+💵 $168.53 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 97 AI Prompts
+🧠 27 AI Sessions, 77 AI Prompts
 
-GPT                      1,331 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,051 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.27% of written lines came from AI
-📝 Concise Prompter — average 355 characters per prompt
+🧑‍💻 Mostly Hands-On — 12.42% of written lines came from AI
+📝 Concise Prompter — average 372 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 84.73% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -116,5 +115,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:30:30 UTC
+ Last Updated on 09/10/2026 22:48:26 UTC
 <!--END_SECTION:waka-->
