@@ -56,48 +56,48 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
-Markdown                 4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Python                   2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+Markdown                 3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Python                   3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+YAML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 55 mins       ██████████████░░░░░░░░░░░   55.21 % 
-VS Code                  7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
+Codex Vscode             8 hrs 24 mins       ██████████████░░░░░░░░░░░   54.12 % 
+VS Code                  7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
 
 🐱‍💻 Projects: 
-DeGauss                  4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Deformable-3D-Gaussians  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-rekkles                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-WorldBridge4D            2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Mango-GS                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+DeGauss                  4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+WorldBridge4D            3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Deformable-3D-Gaussians  2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Mango-GS                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+hypernerf                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Linux                    13 hrs 52 mins      █████████████████████░░░░   85.79 % 
-Mac                      2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (81.66%)
+⏱ AI Coding Time: 12 hrs 33 mins (80.91%)
 
-✍️ 1,051 lines written by AI, 7,408 lines written by hand (12.42% AI-written)
+✍️ 2,777 lines written by AI, 7,408 lines written by hand (27.27% AI-written)
 
-🔤 6,798,712 Input Tokens, 295,091 Output Tokens
+🔤 7,549,140 Input Tokens, 328,732 Output Tokens
 
-💵 $168.53 Estimated AI Cost This Week
+💵 $177.74 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 77 AI Prompts
+🧠 11 AI Sessions, 83 AI Prompts
 
-GPT                      1,051 lines         █████████████████████████   100.00 % 
+GPT                      2,693 lines         ████████████████████████░   96.98 % 
+DeepSeek                 84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.42% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 87.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.27% of written lines came from AI
+📝 Concise Prompter — average 353 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 72.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +115,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:48:26 UTC
+ Last Updated on 10/10/2026 21:55:49 UTC
 <!--END_SECTION:waka-->
