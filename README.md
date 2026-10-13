@@ -56,47 +56,43 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
-Other                    1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-YAML                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+YAML                     1 hr                █████████░░░░░░░░░░░░░░░░   34.76 % 
+Python                   48 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████░░░░░░░░░░░░   50.75 % 
-Codex Vscode             2 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.25 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorldBridge4D            2 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-Deformable-3D-Gaussians  2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
-MoDec-GS                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-6001_project             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+WorldBridge4D            2 hrs 47 mins       ████████████████████████░   96.89 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 48 mins (99.23%)
+⏱ AI Coding Time: 2 hrs 53 mins (100.0%)
 
-✍️ 2,421 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,278 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,920,311 Input Tokens, 145,242 Output Tokens
+🔤 1,863,008 Input Tokens, 99,274 Output Tokens
 
-💵 $73.02 Estimated AI Cost This Week
+💵 $56.74 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 49 AI Prompts
+🧠 3 AI Sessions, 46 AI Prompts
 
-GPT                      2,337 lines         ████████████████████████░   96.53 % 
-DeepSeek                 84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+GPT                      2,194 lines         ████████████████████████░   96.31 % 
+DeepSeek                 84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 551 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 536 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:54:28 UTC
+ Last Updated on 13/10/2026 23:00:24 UTC
 <!--END_SECTION:waka-->
