@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C885%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C885%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,46 +56,46 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
-Python                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-YAML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.55 % 
+YAML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.91 % 
-VS Code                  3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+VS Code                  3 hrs 42 mins       █████████████░░░░░░░░░░░░   50.51 % 
+Codex Vscode             3 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.49 % 
 
 🐱‍💻 Projects: 
-rekkles                  4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.91 % 
-WorldBridge4D            3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+rekkles                  3 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.56 % 
+WorldBridge4D            3 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.06 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.91 % 
-Linux                    3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+Linux                    3 hrs 42 mins       █████████████░░░░░░░░░░░░   50.44 % 
+Mac                      3 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 20 mins (99.93%)
 
-✍️ 3,216 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,058 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,484,052 Input Tokens, 272,661 Output Tokens
+🔤 4,738,147 Input Tokens, 214,240 Output Tokens
 
-💵 $136.48 Estimated AI Cost This Week
+💵 $113.47 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 105 AI Prompts
+🧠 11 AI Sessions, 92 AI Prompts
 
-GPT                      3,132 lines         ████████████████████████░   97.39 % 
-DeepSeek                 84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+GPT                      2,974 lines         ████████████████████████░   97.25 % 
+DeepSeek                 84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 387 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 426 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -114,5 +114,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:37:19 UTC
+ Last Updated on 16/10/2026 21:30:58 UTC
 <!--END_SECTION:waka-->
