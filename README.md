@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C886%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-374%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-375%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,45 +56,45 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.65 % 
-Markdown                 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TeX                      1 hr 53 mins        ████████████████░░░░░░░░░   62.31 % 
+Python                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 31 mins       ████████████████░░░░░░░░░   62.35 % 
-VS Code                  1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Codex Vscode             2 hrs 52 mins       ████████████████████████░   94.75 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🐱‍💻 Projects: 
-rekkles                  2 hrs 31 mins       ████████████████░░░░░░░░░   62.35 % 
-WorldBridge4D            1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.28 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+rekkles                  2 hrs 52 mins       ████████████████████████░   94.75 % 
+WorldBridge4D            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       ████████████████░░░░░░░░░   62.35 % 
-Linux                    1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Mac                      2 hrs 52 mins       ████████████████████████░   94.75 % 
+Linux                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 2 mins (100.0%)
 
-✍️ 1,370 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 731 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,299,768 Input Tokens, 174,614 Output Tokens
+🔤 4,014,627 Input Tokens, 170,091 Output Tokens
 
-💵 $71.47 Estimated AI Cost This Week
+💵 $72.40 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 51 AI Prompts
+🧠 7 AI Sessions, 31 AI Prompts
 
-GPT                      1,370 lines         █████████████████████████   100.00 % 
+GPT                      731 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 310 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 238 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,5 +113,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:34:40 UTC
+ Last Updated on 24/10/2026 21:03:17 UTC
 <!--END_SECTION:waka-->
