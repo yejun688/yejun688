@@ -56,43 +56,43 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████░░░░░░░░░░░░   53.29 % 
-Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-TeX                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python                   36 mins             █████████████████░░░░░░░░   66.19 % 
+TeX                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 2 mins         ███████████████████████░░   91.63 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Codex Vscode             49 mins             ██████████████████████░░░   89.61 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🐱‍💻 Projects: 
-rekkles                  1 hr 2 mins         ███████████████████████░░   91.63 % 
-WorldBridge4D            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+rekkles                  49 mins             ██████████████████████░░░   89.61 % 
+WorldBridge4D            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         ███████████████████████░░   91.63 % 
-Linux                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Mac                      49 mins             ██████████████████████░░░   89.61 % 
+Linux                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
+⏱ AI Coding Time: 55 mins (100.0%)
 
 ✍️ 483 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,938,532 Input Tokens, 65,008 Output Tokens
+🔤 2,549,002 Input Tokens, 63,813 Output Tokens
 
-💵 $47.04 Estimated AI Cost This Week
+💵 $42.90 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 GPT                      524 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
+📝 Concise Prompter — average 80 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -112,5 +112,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:29:21 UTC
+ Last Updated on 28/10/2026 22:45:39 UTC
 <!--END_SECTION:waka-->
