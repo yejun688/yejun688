@@ -56,43 +56,38 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████████░░░░░░░░   66.19 % 
-TeX                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TeX                      10 mins             ████████████░░░░░░░░░░░░░   47.57 % 
+Python                   10 mins             ████████████░░░░░░░░░░░░░   47.14 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Codex Vscode             49 mins             ██████████████████████░░░   89.61 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Codex Vscode             21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rekkles                  49 mins             ██████████████████████░░░   89.61 % 
-WorldBridge4D            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+rekkles                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      49 mins             ██████████████████████░░░   89.61 % 
-Linux                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (100.0%)
+⏱ AI Coding Time: 21 mins (100.0%)
 
-✍️ 483 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 355 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,549,002 Input Tokens, 63,813 Output Tokens
+🔤 891,812 Input Tokens, 39,021 Output Tokens
 
-💵 $42.90 Estimated AI Cost This Week
+💵 $17.97 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-GPT                      524 lines           █████████████████████████   100.00 % 
+GPT                      355 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
+📝 Concise Prompter — average 140 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -112,5 +107,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:54:34 UTC
+ Last Updated on 30/10/2026 22:33:56 UTC
 <!--END_SECTION:waka-->
