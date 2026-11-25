@@ -1,16 +1,25 @@
-# Hi there 👋👋👋
+# Hi, I’m Lucas
 
+I work on inverse rendering and 4D reconstruction. I’m interested in what we can recover from images, from the roughness of a reflective surface to the motion of a scene over time.
 
-<!-- <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yejun688&count_private=true&show_icons=true&hide_rank=true&title_color=0969da&bg_color=ffffff00&text_color=57606a&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yejun688&layout=compact&title_color=0969da&bg_color=ffffff00&text_color=57606a"> -->
+## Selected work
 
-![My GitHub Stats](https://githubcard.com/YEJUN688.svg?d=sSYdyz3L)
+**[MU-BGS](https://github.com/yejun688/MU-BGS) · Recovering shape and materials**
 
-[![Yejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun688)](https://github.com/yejun688/github-readme-stats)
+A shiny teapot reflects the room around it. MU-BGS combines Gaussian splatting with a signed distance field to estimate the teapot’s shape, base color, roughness, and metallic properties so it can be rendered under new lighting.
 
-<!---
-yejun688/yejun688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![MU-BGS pipeline showing a teapot, its estimated material properties, and two surface normal maps](https://github.com/yejun688/MU-BGS/blob/main/assets/1c8c4445-042c-40ed-af2c-b324b6ed2a58.png?raw=true)](https://github.com/yejun688/MU-BGS)
+
+**[QTT-4D](https://github.com/yejun688/QTT-4D) · Rendering scenes in motion**
+
+QTT-4D represents a changing scene with quantized tensor trains and renders it from new viewpoints. The repository walks through training on the *coffee_martini* sequence and exporting RGB images, depth visualizations, and videos.
+
+## Paper lists
+
+I organize oral papers by topic and collect links to papers, project pages, and code. Browse the [CVPR 2025 collection](https://github.com/yejun688/CVPR_2025_Oral_Paper_List) or the [ICCV 2025 collection](https://github.com/yejun688/ICCV_2025_Oral-papers).
+
+<details>
+<summary>Coding activity · updated daily</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C900%20hrs%2028%20mins-blue?style=flat)
@@ -115,3 +124,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 25/11/2026 07:04:09 UTC
 <!--END_SECTION:waka-->
+
+</details>
