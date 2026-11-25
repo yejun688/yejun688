@@ -13,15 +13,16 @@ jobs:
       contents: read
     steps:
       - name: Prepare a local destination for generated stats
-        run: git init --bare generated.git
+        run: |
+          # The stats container runs as root and pushes into this disposable repository.
+          sudo git init --bare generated.git
+          git config --global --add safe.directory "$PWD/generated.git"
       - name: Generate profile stats
         uses: anmol098/waka-readme-stats@f3a05a90cddf436185171f5c2d91af3478fc10c3
         env:
-          GIT_CONFIG_COUNT: '2'
+          GIT_CONFIG_COUNT: '1'
           GIT_CONFIG_KEY_0: remote.origin.pushurl
           GIT_CONFIG_VALUE_0: /github/workspace/generated.git
-          GIT_CONFIG_KEY_1: safe.directory
-          GIT_CONFIG_VALUE_1: /github/workspace/generated.git
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
