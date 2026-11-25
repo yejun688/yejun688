@@ -1,4 +1,4 @@
-# Hi, I’m Lucas
+# Hi, I’m Jun
 
 I work on inverse rendering and 4D reconstruction. I’m interested in what we can recover from images, from the roughness of a reflective surface to the motion of a scene over time.
 
