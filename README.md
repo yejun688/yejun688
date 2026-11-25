@@ -2,6 +2,7 @@
 
 I work on inverse rendering and 4D reconstruction. I’m interested in what we can recover from images, from the roughness of a reflective surface to the motion of a scene over time.
 
+<!--
 ## Selected work
 
 **[MU-BGS](https://github.com/yejun688/MU-BGS) · Recovering shape and materials**
@@ -13,6 +14,7 @@ A shiny teapot reflects the room around it. MU-BGS combines Gaussian splatting w
 **[QTT-4D](https://github.com/yejun688/QTT-4D) · Rendering scenes in motion**
 
 QTT-4D represents a changing scene with quantized tensor trains and renders it from new viewpoints. The repository walks through training on the *coffee_martini* sequence and exporting RGB images, depth visualizations, and videos.
+-->
 
 ## Paper lists
 
