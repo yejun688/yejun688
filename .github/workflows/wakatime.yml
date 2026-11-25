@@ -4,18 +4,87 @@ on:
     - cron: '30 18 * * *'
   workflow_dispatch:
 
+permissions: {}
+
 jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Prepare a local destination for generated stats
+        run: git init --bare generated.git
+      - name: Generate profile stats
+        uses: anmol098/waka-readme-stats@f3a05a90cddf436185171f5c2d91af3478fc10c3
+        env:
+          GIT_CONFIG_COUNT: '2'
+          GIT_CONFIG_KEY_0: remote.origin.pushurl
+          GIT_CONFIG_VALUE_0: /github/workspace/generated.git
+          GIT_CONFIG_KEY_1: safe.directory
+          GIT_CONFIG_VALUE_1: /github/workspace/generated.git
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PUSH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: false
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE: true
+      - name: Extract the README section and chart
+        shell: bash
+        run: |
+          mkdir metrics
+          git --git-dir=generated.git show main:assets/bar_graph.png > metrics/bar_graph.png
+          git --git-dir=generated.git show main:README.md > generated.md
+          python3 - <<'PY'
+          from pathlib import Path
+          text = Path('generated.md').read_text()
+          start, end = '<!--START_SECTION:waka-->', '<!--END_SECTION:waka-->'
+          assert text.count(start) == text.count(end) == 1
+          section = text.split(start, 1)[1].split(end, 1)[0]
+          if 'This Week I Spent My Time On' not in section or '![Code Time]' not in section:
+              raise SystemExit('WakaTime weekly or all-time stats are not ready; keeping the current README.')
+          if "? Used in GitHub's Storage" in section:
+              section = ''.join(line for line in section.splitlines(keepends=True)
+                                if 'Used in GitHub' not in line and 'Private Repositories' not in line)
+          Path('metrics/section.md').write_text(section)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: profile-metrics
+          path: metrics/
+          retention-days: 1
+
   update-readme:
+    needs: collect
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEWS: false  # 禁用有问题的功能
-          SHOW_OS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE: true
+          ref: main
+      - uses: actions/download-artifact@v4
+        with:
+          name: profile-metrics
+          path: .generated-metrics
+      - name: Update the profile README and timeline
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('README.md')
+          text = path.read_text()
+          start, end = '<!--START_SECTION:waka-->', '<!--END_SECTION:waka-->'
+          assert text.count(start) == text.count(end) == 1 and text.index(start) < text.index(end)
+          section = Path('.generated-metrics/section.md').read_text()
+          assert start not in section and end not in section
+          path.write_text(text.split(start, 1)[0] + start + section + end + text.split(end, 1)[1])
+          PY
+          cp .generated-metrics/bar_graph.png assets/bar_graph.png
+          git add -- README.md assets/bar_graph.png
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Updated with Dev Metrics'
+          git push origin HEAD:main
