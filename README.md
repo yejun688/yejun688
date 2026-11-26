@@ -31,7 +31,7 @@ I organize oral papers by topic and collect links to papers, project pages, and 
 **🐱 My GitHub Data** 
 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I organize oral papers by topic and collect links to papers, project pages, and 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                54 commits          ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌃 Evening                73 commits          ██████████░░░░░░░░░░░░░░░   40.33 % 
-🌙 Night                  40 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+🌆 Daytime                57 commits          ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌃 Evening                73 commits          ██████████░░░░░░░░░░░░░░░   39.67 % 
+🌙 Night                  40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Monday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Friday                   43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
 
 
@@ -65,49 +65,49 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 31 mins      █████████████████████░░░░   85.95 % 
-Python                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    7 hrs 29 mins       ███████████████████████░░   93.36 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+SSH Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 38 mins       ██████████████░░░░░░░░░░░   54.18 % 
-VS Code                  4 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
-Codex Exec               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+VS Code                  4 hrs 5 mins        █████████████░░░░░░░░░░░░   51.03 % 
+Codex Vscode             2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Codex Exec               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 
 🐱‍💻 Projects: 
-motion-scale             4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
-ProMo3D                  3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-SSD-GS                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-SSS-GS                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-rekkles                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+motion-scale             3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.35 % 
+SSS-GS                   1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+MASK                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+ProMo3D                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+rekkles                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Linux                    11 hrs 33 mins      ████████████████████████░   94.45 % 
-Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Linux                    6 hrs 22 mins       ████████████████████░░░░░   79.48 % 
+Mac                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 7 mins (82.66%)
+⏱ AI Coding Time: 6 hrs 2 mins (75.33%)
 
-✍️ 2,375 lines written by AI, 21,526 lines written by hand (9.94% AI-written)
+✍️ 639 lines written by AI, 20,596 lines written by hand (3.01% AI-written)
 
-🔤 7,465,434 Input Tokens, 764,376 Output Tokens
+🔤 3,794,739 Input Tokens, 396,302 Output Tokens
 
-💵 $320.67 Estimated AI Cost This Week
+💵 $161.52 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 104 AI Prompts
+🧠 42 AI Sessions, 52 AI Prompts
 
-GPT                      2,598 lines         █████████████████████████   100.00 % 
+GPT                      862 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.94% of written lines came from AI
-📝 Concise Prompter — average 170 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 90.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.01% of written lines came from AI
+📝 Concise Prompter — average 271 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 96.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +124,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 07:04:09 UTC
+ Last Updated on 26/11/2026 01:54:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
