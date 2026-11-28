@@ -24,9 +24,9 @@ I organize oral papers by topic and collect links to papers, project pages, and 
 <summary>Coding activity · updated daily</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C900%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,48 +65,47 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 39 mins       █████████████░░░░░░░░░░░░   50.73 % 
-TeX                      2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-SSH Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TeX                      2 hrs 50 mins       ████████████████░░░░░░░░░   63.62 % 
+Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 42 mins       ████████████████░░░░░░░░░   65.12 % 
-Codex Exec               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-VS Code                  1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Codex Vscode             3 hrs 29 mins       ████████████████████░░░░░   78.18 % 
+VS Code                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-rekkles                  3 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.27 % 
-motion-scale             2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-MASK                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-ProMo3D                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+rekkles                  3 hrs 31 mins       ████████████████████░░░░░   78.81 % 
+MASK                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+motion-scale             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      4 hrs 37 mins       ████████████████░░░░░░░░░   64.12 % 
-Linux                    2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+Mac                      4 hrs 26 mins       █████████████████████████   99.53 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 10 mins (99.33%)
+⏱ AI Coding Time: 4 hrs 26 mins (99.5%)
 
 ✍️ 1,505 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,030,966 Input Tokens, 381,636 Output Tokens
+🔤 2,233,592 Input Tokens, 232,475 Output Tokens
 
-💵 $130.95 Estimated AI Cost This Week
+💵 $120.43 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 59 AI Prompts
+🧠 12 AI Sessions, 51 AI Prompts
 
 GPT                      1,744 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+📄 Detailed Prompter — average 521 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +122,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yejun688/yejun688/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:51:53 UTC
+ Last Updated on 28/11/2026 01:33:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
